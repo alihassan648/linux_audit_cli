@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "linuxaudit"
+version = "0.1.0"
+description = "Linux Security Audit CLI for DevOps automation"
+authors = [
+    {name = "Sohail Ali"}
+]
+requires-python = ">=3.9"
+
+[project.scripts]
+linuxaudit = "audit_pkg.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

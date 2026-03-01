@@ -1,0 +1,2 @@
+[console_scripts]
+linuxaudit = audit_pkg.cli:main
