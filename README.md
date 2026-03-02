@@ -1,9 +1,3 @@
-Sure — since this is a README file, I’ll give you clean Markdown-ready README content (no writing blocks, because those are only for emails).
-
-You can directly replace your README.md with this.
-
-⸻
-
 
 # Linux Security Audit CLI
 
@@ -165,4 +159,5 @@ GitHub: https://github.com/alihassan648
 MIT License
 
 ---
+
 
